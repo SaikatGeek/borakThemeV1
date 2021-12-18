@@ -157,11 +157,13 @@ body, html {
 .footer-link:hover{
     color: white;
 }
+
 #footer {
     margin-bottom: -10px;
     padding-top: 120px;
     background: #1E1E1E;
 }
+
 @media screen and (max-width : 425px)
 {
     .hero-image-download-section{
